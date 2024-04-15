@@ -1,5 +1,5 @@
 # LOCALIZAÇÃO REAL NO MAPA EM JAVASCRIPT
-<img src="https://raw.githubusercontent.com/MatheusPereira033/Formul-rio-de-Valida--o-em-JavaScript/main/Form%20com%20valida%C3%A7%C3%A3o%20JavaScript-gif.gif" alt="Video GIF">
+<img src="https://github.com/MatheusPereira033/Mapa-em-JS/blob/main/mapa-js.gif?raw=true" alt="Video GIF">
 <p>Nesse projeto o usuário poderá verificar sua localização em tempo real, independente de onde esteja, conseguindo obter a visualização no mapa onde ele está localizado. Caso ele clique em "bloquear" para negar sua localização, o usuário não vai conseguir ver sua localização, ele precisa permitir para que o navegador obtenha sua localização.</p>
 Verifique o Projeto: https:https://matheuspereira033.github.io/Mapa-em-JS/
 <br>
